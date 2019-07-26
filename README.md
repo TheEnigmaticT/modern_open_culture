@@ -219,7 +219,7 @@ We see work as a fundamental right, and as one of the major pillars in someoneâ€
 
 As such, we do not ask someone to leave lightly. Firing someone is something we view as the worst possible outcome in a work relationship. However, keeping someone that is underperforming, or doesnâ€™t fit the team, is damaging to the work of everyone else in the company. This is a case where we must place the many above the few.
 
-If the worst happens and we have to let someone go, we commit is the following:
+If the worst happens and we have to let someone go, we commit to the following:
 
     * You will always get at minimum 30 days of notice.
     * You will be paid for those 30 days, as well as any severance outlined in your contract.  In return, we expect you to leave your work in as good a state as possible, for the people coming in after you.
