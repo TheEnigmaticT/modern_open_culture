@@ -223,4 +223,4 @@ If the worst happens and we have to let someone go, we commit to the following:
 
     * You will always get at minimum 30 days of notice.
     * You will be paid for those 30 days, as well as any severance outlined in your contract.  In return, we expect you to leave your work in as good a state as possible, for the people coming in after you.
-    * As far as they can do so with a clear conscience - that is, if your exit isn’t due to some reprehensible act or attitude on your part - your manager will do everything in their power to help you find a new job where you will be a better fit, including writing a recommendation letter.
+    * As far as they can do so with a clear conscience - that is, if your exit isn’t due to some reprehensible act or attitude on your part, or total and obvious lack of capability for doing the job you claimed you could do  - your manager will do everything in their power to help you find a new job where you will be a better fit, including writing a recommendation letter.
